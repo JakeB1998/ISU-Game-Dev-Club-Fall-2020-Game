@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Attack
+  - Room
+  - Room Set
+  - Wall
+  - Barrel
+  - Water
+  - Turret
+  - Shield
+  - Destructible
   layers:
   - Default
   - TransparentFX
@@ -13,8 +23,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Enemy
+  - Attack
   - 
   - 
   - 
