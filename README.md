@@ -3,4 +3,4 @@
 ![](https://tokei.rs/b1/github/JakeB1998/Fall2020-Project?category=files)
 
 # ISU Game Dev Club Fall 2020 Project
-Our project to make a post-apocalyptic top down roguelike dungeon crawler.
+Our project to make a post-apocalyptic top down roguelike dungeon crawler. I was the lead programmer at the time.
